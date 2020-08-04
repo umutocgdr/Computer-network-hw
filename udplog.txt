@@ -1,0 +1,10 @@
+UDP-->: [{packet from client,0,packet from client,Fri Jul 3 16:47:04 +03 2020}] {Fri Jul  3 16:47:04 +03 2020}
+UDP-->: [{packet from client,1,packet from client,Fri Jul 3 16:47:05 +03 2020}] {Fri Jul  3 16:47:05 +03 2020}
+UDP-->: [{packet from client,2,packet from client,Fri Jul 3 16:47:05 +03 2020}] {Fri Jul  3 16:47:05 +03 2020}
+UDP-->: [{packet from client,3,packet from client,Fri Jul 3 16:47:06 +03 2020}] {Fri Jul  3 16:47:06 +03 2020}
+UDP-->: [{packet from client,4,packet from client,Fri Jul 3 16:47:06 +03 2020}] {Fri Jul  3 16:47:06 +03 2020}
+UDP-->: [{packet from client,5,packet from client,Fri Jul 3 16:47:07 +03 2020}] {Fri Jul  3 16:47:07 +03 2020}
+UDP-->: [{packet from client,6,packet from client,Fri Jul 3 16:47:07 +03 2020}] {Fri Jul  3 16:47:07 +03 2020}
+UDP-->: [{packet from client,7,packet from client,Fri Jul 3 16:47:08 +03 2020}] {Fri Jul  3 16:47:08 +03 2020}
+UDP-->: [{packet from client,8,packet from client,Fri Jul 3 16:47:08 +03 2020}] {Fri Jul  3 16:47:08 +03 2020}
+UDP-->: [{packet from client,9,packet from client,Fri Jul 3 16:47:09 +03 2020}] {Fri Jul  3 16:47:09 +03 2020}
